@@ -60,7 +60,7 @@ avg / total     0.9054    0.9200    0.9125      5648
 # Reference
 BERT Code adapted from: https://github.com/kamalkraj/BERT-NER
 
-LSTM Code adapted from: https://github.com/kamalkraj/Named-Entity-Recognition-with-Bidirectional-LSTM-CNNs
+LSTM Code adapted from: https://github.com/mxhofer/Named-Entity-Recognition-BidirectionalLSTM-CNN-CoNLL
 
 Other Githubs used for reference:
 1. https://github.com/lonePatient/BERT-NER-Pytorch
